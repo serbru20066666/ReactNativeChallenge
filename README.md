@@ -2,6 +2,7 @@
 
 ## Description
 Reto React Native is a mobile application built using React Native that provides user authentication features, including login, registration, and password recovery.
+I used mvvm architecture pattern to arganize the layers
 
 ## Technologies Used
 - React Native
